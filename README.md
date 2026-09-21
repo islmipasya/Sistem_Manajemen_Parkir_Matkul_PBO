@@ -107,7 +107,7 @@ menu 5 untuk melihat status parkir. Program menampilkan kapasitas parkir sebanya
 
 menu 6 untuk keluar dari program. Setelah pilihan diproses, program menampilkan pesan “Terima kasih telah menggunakan Sistem Manajemen Parkir.” yang berarti program berhasil dihentikan.
 
-## Kesimpulan
+## 7. Kesimpulan
 
 Sistem Manajemen Parkir merupakan program Java yang dibuat untuk mengelola data kendaraan dan proses parkir. Program ini menerapkan konsep Object-Oriented Programming, khususnya penggunaan class, object, constructor, ArrayList, serta inheritance.
 Penerapan inheritance dilakukan dengan membuat Kendaraan sebagai parent class dan Mobil serta Motor sebagai child class. Dengan konsep tersebut, atribut dan method yang memiliki fungsi umum dapat digunakan kembali oleh class turunannya sehingga struktur program menjadi lebih terorganisir.
